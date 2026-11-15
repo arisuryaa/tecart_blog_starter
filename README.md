@@ -1,6 +1,6 @@
 # TecArt Blog (Starter Workshop)
 
-Project latihan untuk **Software Engineering 101: Frontend dengan Blade dan Tailwind CSS**.
+Project untuk pelatihan **Software Engineering 101: Frontend dengan Blade dan Tailwind CSS**.
 
 ## 1. Yang harus ada di laptop
 
@@ -23,8 +23,8 @@ Kalau memakai Laragon, jalankan semua perintah di bawah lewat **Terminal Laragon
 **Langkah 1. Clone project**
 
 ```bash
-git clone <URL-REPO>
-cd <NAMA-FOLDER-REPO>
+git clone <https://github.com/arisuryaa/tecart_blog_starter.git>
+cd <tecart_blog_starter>
 ```
 
 **Langkah 2. Setup otomatis**
@@ -50,7 +50,3 @@ composer run dev
 ```
 http://localhost:8000
 ```
-
-Alamat ini otomatis membawamu ke halaman daftar artikel (`/posts`).
-
----
